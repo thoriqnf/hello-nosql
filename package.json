@@ -18,5 +18,8 @@
   "homepage": "https://github.com/thoriqnf/hello-nosql#readme",
   "dependencies": {
     "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
   }
 }
